@@ -19,6 +19,8 @@ How do we know it’s a good idea? If it wasn’t for the downloads and the refe
 
 BLOKK font is proof that the Internet works for brilliant ideas and that it makes good ideas even better.
 
+Also supports cyrillic symbols !
+
 Your friends,
 Los Gordos
 
